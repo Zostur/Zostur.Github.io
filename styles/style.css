@@ -1,3 +1,20 @@
+h1 {
+    color: 
+    red
+}
+h3 {
+    color: limegreen
+}
 p {
-  color: red;
+  color: deepskyblue;
+  width: 500px;
+  border: 1px solid black;
+}
+html {
+  font-size: 15px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Open Sans', sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+h2 {
+    color: 
+    gold
 }
