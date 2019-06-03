@@ -4,5 +4,15 @@ h1 {
 }
 p {
     color:
-    tan
+    brown;
+}
+
+.cards {
+    display: flex;
+    
+}
+
+.card-image {
+    max-width: 280px;
+    max-height: 390px;
 }
