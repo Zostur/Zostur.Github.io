@@ -1,3 +1,14 @@
 h1{
     color:gold
 }
+h2{
+    color:orange;
+    border: 3px solid black;
+}
+p{
+    color:black
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
